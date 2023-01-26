@@ -4,7 +4,7 @@
 On this repo we will learn how to create API Documentation using swagger on Springboot Mysql Project.
 
 If you want read the full articles all about this repo, 
-you can see on this [link](https://deni-setiawan.medium.com/create-api-documentation-using-swagger-on-springboot-27509cc0b1a9)
+you can see on this article [https://deni-setiawan.medium.com](https://deni-setiawan.medium.com/create-api-documentation-using-swagger-on-springboot-27509cc0b1a9)
 
 ### Requirements
 - Maven 3+
